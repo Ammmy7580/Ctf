@@ -1,0 +1,1 @@
+Open the js and css file and get the flag in parts :)

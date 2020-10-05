@@ -1,0 +1,1 @@
+Open the Main.js file and convert the hex value into the string and get the flag :)

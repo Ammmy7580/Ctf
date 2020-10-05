@@ -1,0 +1,13 @@
+A1 -> ans -13 6 7                                                      (mini{A1_27f3abda81e75486b9299fda})
+B1 -> ans 163 -112                                                     (mini{B1_485a3ae14ebb98e8ccc855b3})
+C1 -> ans 31                                                           (mini{C1_4c88b7b4c11a9ee43f33e130})
+D1 -> ans 39                                                           (mini{D1_77858210bb3c8f6f90642947})
+F1 -> ans 43                                                           (mini{F1_c45a3e68b37e85ee427389c5})
+F2 -> ans 5852187                                                      (mini{F2_71724abed3c0a25e2f95393c})
+F3 -> ans 1<Zeros>18661                                                (mini{F3_956ba40d2133c75a49c8e713})
+G1 -> ans 412                                                          (mini{G1_92e9a33c80ca7666c7f4b704})
+G2 -> ans 6429412122                                                   (mini{G2_9aa73c3f86221f07d9b789a9})
+ <FOR I -> factor.db website >
+I1 -> ans 17 17 167                                                    (mini{I1_1a8ec6471c8824fff864a95c})
+I2 -> ans 2 7 7 13 19 19 79 601 234490397 1655726489421517             (mini{I2_03ba7452553b74b5122c58f0})
+J1 -> ans 45 17                                                        (mini{J1_c9d7861b2635ebb151b71351})
